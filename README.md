@@ -46,3 +46,4 @@ The simulator operates as a continuous real-time pipeline split into four logica
 
 ### Real-Time Intercept Performance Loop
 The system tracks the target dynamically through its entry sequence, dampens the input sensor variance, and continuously project a zero-latency directed energy laser beam line directly to the filtered target node:
+https://github.com/user-attachments/assets/cb7dbc46-a9dd-43d7-8ebe-670ee7da7e48
